@@ -18,10 +18,10 @@ Real-world backend ingestion workflow
 **3. Query the stored data**
 ### Project Structure
 api_data_ingest_pipeline/
-├── fetch_data.py
-├── db_setup.py
-├── query_data.py
-└── README.md
+ fetch_data.py
+ db_setup.py
+ query_data.py
+ README.md
 
 
 This was a project i did for fun while i had spare time using API's with pokemon
