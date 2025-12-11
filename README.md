@@ -26,7 +26,7 @@ This pipeline retrieves Pokémon data from the public **PokéAPI**, stores it in
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 api_data_ingest_pipeline/
 ├── fetch_data.py # Fetches data from the API and inserts into SQL
