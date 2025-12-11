@@ -29,10 +29,11 @@ This pipeline retrieves Pokémon data from the public **PokéAPI**, stores it in
 ## Project Structure
 
 api_data_ingest_pipeline/
-├── fetch_data.py # Fetches data from the API and inserts into SQL
-├── db_setup.py # Creates the SQLite database and table
-├── query_data.py # Queries the stored API data
-└── README.md # Project documentation
+├── fetch_data.py        # Fetches data from the API and inserts into SQL
+├── db_setup.py          # Creates the SQLite database and table
+├── query_data.py        # Queries the stored API data
+└── README.md            # Project documentation
+
 
 
 
