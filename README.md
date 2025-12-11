@@ -2,12 +2,12 @@
 
 # API Data Ingest Pipeline
 
-A small Python project that demonstrates:
+A small Python project which has the following:
 
 Fetching data from a public REST API  
 Storing structured data in a SQL database  
 Running SQL queries for analysis  
-Real-world backend ingestion workflow  
+minor backend ingestion workflow  
 
 ### How to Run
 
